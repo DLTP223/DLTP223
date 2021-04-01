@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I’m currently working on something cool.
+💬 Ask me about being a participant in Reskill Americans.
+
 <!--
 **DLTP223/DLTP223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
